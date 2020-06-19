@@ -1,3 +1,3 @@
 manifold
 ====
-Implements of popular manifold algorithms in Python.
+Implements of classical manifold algorithms in Python.
